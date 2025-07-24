@@ -1,0 +1,6 @@
+@conecta_jobs_dotnet_HostAddress = http://localhost:5229
+
+GET {{conecta_jobs_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
